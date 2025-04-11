@@ -1,0 +1,14 @@
+streamlit==1.39.0
+requests==2.31.0
+helper==2.5.0
+numpy==1.26.0
+pandas==2.1.1
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.22.0
+statsmodels==0.14.1
+scipy==1.11.3
+scikit-learn==1.4.2
+imbalanced-learn==0.12.3
+xgboost==2.1.0
+lxml==4.9.3
