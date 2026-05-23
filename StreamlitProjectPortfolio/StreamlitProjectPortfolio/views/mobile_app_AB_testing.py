@@ -6,7 +6,7 @@ import plotly.express as px
 from scipy.stats import chi2_contingency, chisquare
 import streamlit as st
 
-sns.set_theme()
+plt.style.use('seaborn-v0_8')
 
 st.title('MOBILE APP A/B TESTING')
 
